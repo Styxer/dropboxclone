@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dropboxclone/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dropboxclone/static/js/main.9b68448d.chunk.js",
+    "main.js.map": "/dropboxclone/static/js/main.9b68448d.chunk.js.map",
+    "runtime-main.js": "/dropboxclone/static/js/runtime-main.f9d7edb7.js",
+    "runtime-main.js.map": "/dropboxclone/static/js/runtime-main.f9d7edb7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/dropboxclone/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c81858a0.chunk.js": "/dropboxclone/static/js/2.c81858a0.chunk.js",
+    "static/js/2.c81858a0.chunk.js.map": "/dropboxclone/static/js/2.c81858a0.chunk.js.map",
+    "index.html": "/dropboxclone/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/dropboxclone/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/dropboxclone/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c81858a0.chunk.js.LICENSE.txt": "/dropboxclone/static/js/2.c81858a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9d7edb7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c81858a0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9b68448d.chunk.js"
+  ]
+}
